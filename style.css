@@ -1,0 +1,59 @@
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+header {
+    width: 100%;
+    max-width: 800px;
+}
+
+.main {
+    display: flex;
+    /*max-width: 200px;*/
+    width: 100%;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+.box {
+    /*height: 50px;*/
+    /*flex: 1;*/
+}
+
+#box-1 {
+    background: lightblue;
+}
+
+#box-2 {
+    background: lightcoral;
+}
+
+#box-3 {
+    background: lightcyan;
+}
+
+#box-4 {
+    background: lightgreen;
+}
+
+#box-5 {
+    background: lightpink;
+}
+
+#box-6 {
+    background: lightseagreen;
+}
