@@ -1,4 +1,2 @@
 # optimering
-
-Uppgift
-Se till att alla bilder som används är optimerade och i korrekta storlekar. 
+Uppgiften är att se till att alla bilder som används är optimerade och i korrekta storlekar. 
